@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi import Query
 
-app = FastAPI()
+app = FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
 
 
 def check_aho(number):
