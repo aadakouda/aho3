@@ -12,7 +12,7 @@ AWS EC2にデプロイしたもの↓
 ### 言語
 - JavaScript
 
-### フレームワーク
+### ライブラリ
 - React
 - Material UI
 
